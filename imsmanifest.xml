@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest identifier="_6AbFLdRmNF0" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+<manifest identifier="_6UEkcGe9enX" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
   <metadata>
     <schema>ADL SCORM</schema>
     <schemaversion>1.2</schemaversion>
@@ -53,13 +53,13 @@
   <organizations default="JO.G5.ARB.SEM1.UE.T1.S4.1_ORG">
     <organization identifier="JO.G5.ARB.SEM1.UE.T1.S4.1_ORG">
       <title>JO.G5.ARB.SEM1.UE.T1.S4.1</title>
-      <item identifier="JO.G5.ARB.SEM1.UE.T1.S4.1_SCO" isvisible="true" identifierref="__6AbFLdRmNF0_RES">
+      <item identifier="JO.G5.ARB.SEM1.UE.T1.S4.1_SCO" isvisible="true" identifierref="__6UEkcGe9enX_RES">
         <title>JO.G5.ARB.SEM1.UE.T1.S4.1</title>
       </item>
     </organization>
   </organizations>
   <resources>
-    <resource identifier="__6AbFLdRmNF0_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+    <resource identifier="__6UEkcGe9enX_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
       <file href="mobile/5dVvpQwMCbm.png" />
       <file href="mobile/6APLr31f6pT.png" />
@@ -72,11 +72,15 @@
       <file href="mobile/5dVvpQwMCbm_P_1851_12_69_164.png" />
       <file href="mobile/69hvBFLQHoH_X_P_197_125_762_767.png" />
       <file href="story_content/5gofzAGMjgG_44100_160_0.mp3" />
+      <file href="story_content/6LrMhalDysH_44100_160_0.mp3" />
       <file href="mobile/61iQVCoa7EJ.png" />
       <file href="mobile/66HKytsa7U4.png" />
       <file href="mobile/5dVvpQwMCbm_P_0_244_1920_836.png" />
       <file href="mobile/5dVvpQwMCbm_P_0_228_1920_852.png" />
+      <file href="story_content/6XehJdYIBHh_44100_160_0.mp3" />
+      <file href="story_content/6ZHdVbxiQLX_44100_160_0.mp3" />
       <file href="story_content/631yyCVvvmg_44100_160_0.mp3" />
+      <file href="story_content/6q0GiEBvNQO_44100_160_0.mp3" />
       <file href="meta.xml" />
       <file href="story_content/5u09reL7Z9o.png" />
       <file href="story_content/user.js" />
